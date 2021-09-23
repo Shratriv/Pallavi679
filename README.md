@@ -43,8 +43,9 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   | 
 | [My Portfolio Website](https://pallavi679.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Online Banking System](https://github.com/Pallavi679/Banking-System/)   | This is Project during Spark-Foundation one month Internship created basic money transfer system. 
-| [Lovely Science](https://github.com/Pallavi679/LovelyScience)     |This is Basic Webpage created using HTML CSS Javascript.  |
-| [BlueBell - SurveyAplication](https://github.com/Pallavi679/BlueBell) | This is the Survey Application based on Java.
+| [Lovely Science](https://github.com/Pallavi679/LovelyScience)     |This is Basic Webpage created using HTML CSS Javascript.  
+| [BlueBell - SurveyAplication](https://github.com/Pallavi679/BlueBell) | This is the Survey Application based on Java. 
+| [Tejal Classes - Education Website](http://tejalclasses.in/) | This Project is created using Wordpress.|
 
 
 
